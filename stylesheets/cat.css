@@ -5,16 +5,16 @@ section{
 	/*background-color: #ededed;*/
 	/*font-family: "微软雅黑";*/
 }
-section div:nth-child(1){
+section div{
 	padding-left: 10px;
 	background-color: #ededed;
 }
-section div:nth-child(1) h1{
+section div h1{
 	font-weight: normal;
 	margin: 0;
 	font-family: "微软雅黑";
 }
-section div:nth-child(1) h1 em{
+section div h1 em{
 	padding-right: 10px;
 	font-family: 'Helvetica Neue', Helvetica, Arial, serif;
 }
